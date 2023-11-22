@@ -1,4 +1,4 @@
-# Phone-gen V1.0
+# xKoksal ✨ Generator V1.0
 
 # ✨ About
 This project is a tool for generating random phone numbers.
